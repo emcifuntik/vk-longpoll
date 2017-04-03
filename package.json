@@ -1,0 +1,27 @@
+{
+  "name": "vk-longpoll",
+  "version": "1.0.0",
+  "description": "VK longpoll listener",
+  "main": "longpoll.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emcifuntik/vk-longpoll.git"
+  },
+  "keywords": [
+    "vk",
+    "longpoll",
+    "vk-api",
+    "vkapi",
+    "vk-sdk",
+    "vkontakte"
+  ],
+  "author": "Eugene Pogrebnyak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emcifuntik/vk-longpoll/issues"
+  },
+  "homepage": "https://github.com/emcifuntik/vk-longpoll#readme"
+}
